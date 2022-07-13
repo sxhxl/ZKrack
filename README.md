@@ -15,3 +15,11 @@ python3 main.py --help
 OR
 
 python3 main.py
+
+# Compatibility
+
+Linux
+
+Ubuntu
+
+Termux
